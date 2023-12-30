@@ -1,0 +1,115 @@
+
+<h1 align="center">
+  <span>Aqui vai um banner do projeto ou o nome </span>
+    <img alt="" title="" src="" />
+</h1>
+
+<h4 align="center"> 
+  <!--   Status do projeto -->
+	🚧  Ecoleta 🚀 Concluído/Andamento  🚧
+</h4>
+
+<!-- Sumarios dos projeto  -->
+<p align="center">
+<!--    -->
+ <a href="#-sobre-o-projeto">Sobre</a> •
+ <a href="#-funcionalidades">Funcionalidades</a> •
+ <a href="#-layout">Layout</a>
+</p>
+
+<!-- Se o projeto for grande
+- <a href="#-sobre-o-projeto">Sobre</a>
+- <a href="#-sobre-o-projeto">Sobre</a>
+   - <a href="#-sobre-o-projeto">Sobre</a>
+   - <a href="#-sobre-o-projeto">Sobre</a> -->
+
+
+## 📋 📖 Sobre o projeto
+
+ Nome do projeto - Um texto explicando oque é o projeto
+
+
+## 🖥️ Demo
+
+
+## ✨ Features
+- a
+- b
+
+
+## 💫 Roadmap
+- [X] Readme 
+- [ ] Demo
+
+
+## 🛠 Como executar o projeto
+
+Este projeto é divido em três partes:
+1. Backend (pasta server) 
+2. Frontend (pasta web)
+3. Mobile (pasta mobile)
+
+
+### Pré-requisitos
+- dwd wa
+- 
+
+
+### Rodando o Backend (servidor)
+
+```bash
+
+# Clone este repositório
+$ git clone git@github.com:tgmarinho/README-ecoleta.git
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd README-ecoleta
+
+# Vá para a pasta server
+$ cd server
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm run dev:server
+
+# O servidor inciará na porta:3333 - acesse http://localhost:3333 
+
+```
+
+---
+
+## ⚡ Tech Stack
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+### Front-end
+-
+
+### Back-end
+-
+
+### Mobile
+-
+
+### Utilitários
+-   Protótipo:  **[Figma](https://www.figma.com/)**  →  **[Protótipo (Ecoleta)](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta)**
+-   Editor:  **[Visual Studio Code](https://code.visualstudio.com/)** 
+-   API:  
+-   Teste de API:  **[Insomnia](https://insomnia.rest/)**
+
+---
+
+##  🦸 Autora
+<p>Feito com ❤️ por Ana Beatriz, entre em contato! &nbsp;</p> 
+
+[![dev.to](https://img.shields.io/badge/dev.to-111?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/biahdev)
+[![codepen](https://img.shields.io/badge/codepen-111?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/BiahDev)
+[![discord](https://img.shields.io/badge/discord-111?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.bio/biahdev)
+[![linkedin](https://img.shields.io/badge/linkedin-111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-beatriz-de-souza-a74a0a183/)
+[![twitter](https://img.shields.io/badge/twitter-111?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BiahDev)
+<a href="mailto:bia8717@hotmail.com"><img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+
+<!-- [⬆ Voltar ao topo](#Sobre-o-projeto)<br> -->
